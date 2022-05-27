@@ -21,5 +21,4 @@ for key in count.keys():
     if count[key] == bigCount:
         bigWord.append(key)
 
-#print(count)
 print(bigWord, bigCount)
